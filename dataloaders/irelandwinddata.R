@@ -1,0 +1,4 @@
+irelandwinddata <- function(){
+  
+  
+}
